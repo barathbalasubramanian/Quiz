@@ -1,5 +1,5 @@
 <template>
-  <!-- <h1> The Quiz </h1> -->
+  <h1> The Quiz </h1> 
   <div id="main">
     <section v-if="!quizCompleted" class='section1'>
       <div class="header">
